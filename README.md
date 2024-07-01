@@ -1,3 +1,2 @@
 # myrepo
-testing for my 1st repo
-\n the line added on my PC \n 2nd line
+testing for my 1st repo.  <br/> the line added on my PC <br/> 2nd line
