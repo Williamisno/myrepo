@@ -1,6 +1,8 @@
 ---
-title: "Untitled"
-output: html_document
+title: "Something fancy"
+author: "william"
+output: github_document 
+
 date: "`r Sys.Date()`"
 ---
 
